@@ -1,4 +1,4 @@
-## Portfolio
+## About Me
 
 I am a passionate Computer Science student graduating in 2022 with great communication
 skills, eager to learn and build amazing products. I am principled, insightful and always
@@ -15,7 +15,7 @@ strive to improve things around me.
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40">
-  <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815809.png?token=exp=1643529750~hmac=230b0b30fd6ab623f5176d8b2c919bc0" alt="sql" width="38" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="sql" height="40">
   
 
 </p>
@@ -26,7 +26,7 @@ strive to improve things around me.
 ## Education
 
 ### Bachelor of Engineering in Computer Science (2018-2022)
-**St. Joseph Engineering College, Mangaluru**
+**St. Joseph Engineering College, Mangaluru** <br>
 CGPA 8.6
 
 ---
