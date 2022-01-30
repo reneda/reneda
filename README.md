@@ -10,11 +10,12 @@ strive to improve things around me.
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="38" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Sql-icon.svg" alt="sql" height="45">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html"  height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40">
+  <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815809.png?token=exp=1643529750~hmac=230b0b30fd6ab623f5176d8b2c919bc0" alt="sql" width="38" height="40">
   
 
 </p>
@@ -24,8 +25,8 @@ strive to improve things around me.
 
 ## Education
 
-### **St. Joseph Engineering College, Mangaluru**
 ### Bachelor of Engineering in Computer Science (2018-2022)
+**St. Joseph Engineering College, Mangaluru**
 CGPA 8.6
 
 ---
