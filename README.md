@@ -1,8 +1,7 @@
 ## About Me
 
-I am a Computer Science student graduating in 2022 with great communication
-skills, eager to learn and build amazing products. I am principled, insightful and always
-strive to improve things around me.
+I am a Computer Science student graduating in 2022 eager to learn and build amazing products. I am principled, insightful and always
+strive to improve myself and things around me.
 
 ---
 
