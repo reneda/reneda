@@ -1,7 +1,6 @@
 ## About Me
 
-I am a Computer Science student graduating in 2022 eager to learn and build amazing products. I am principled, insightful and always
-strive to improve myself and things around me.
+I am like to find answers to problems :)
 
 ---
 
@@ -26,7 +25,7 @@ strive to improve myself and things around me.
 
 ### Bachelor of Engineering in Computer Science (2018-2022)
 **St. Joseph Engineering College, Mangaluru** <br><br>
-CGPA 8.6
+CGPA 8.9
 
 ---
 ## Projects
