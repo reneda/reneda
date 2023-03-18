@@ -1,6 +1,6 @@
 ## About Me
 
-I am like to find answers to problems :)
+I like to find answers to problems :)
 
 ---
 
@@ -25,7 +25,6 @@ I am like to find answers to problems :)
 
 ### Bachelor of Engineering in Computer Science (2018-2022)
 **St. Joseph Engineering College, Mangaluru** <br><br>
-CGPA 8.9
 
 ---
 ## Projects
